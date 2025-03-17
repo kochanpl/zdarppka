@@ -1,7 +1,7 @@
 'use client';
 
 import Image from "next/image";
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import ScratchCard from "@/components/ScratchCard";
 import WinAlert from "@/components/WinAlert";
 import UserForm from "@/components/UserForm";
