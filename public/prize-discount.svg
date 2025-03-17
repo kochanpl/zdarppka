@@ -1,0 +1,7 @@
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#f8f9fa"/>
+  <rect x="50" y="100" width="200" height="100" rx="8" fill="#f3f4f6"/>
+  <path d="M 50,130 L 250,130" stroke="#e5e7eb" stroke-width="2" stroke-dasharray="5,5"/>
+  <text x="150" y="120" font-family="Arial" font-size="24" text-anchor="middle" fill="#ef4444">10% RABATU</text>
+  <text x="150" y="170" font-family="Arial" font-size="16" text-anchor="middle" fill="#1e3a8a">Kupon rabatowy</text>
+</svg> 
